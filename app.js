@@ -18,7 +18,7 @@ const Greeting = (props) => {
 const LotsOfGreetings = () => {
   return (
     <View style={[styles.center, {top: 50}]}>
-    <Greeting name='Hello World from Group 4 Brendons Liflands on this snowy day' />
+    <Greeting name='Hello World from Group 4 Renārs Piesis' />
     </View>
   );
 }
